@@ -1,1 +1,24 @@
-It contains its dataset and its corresponding data prediction file also
+Project Description
+
+The Movie Rating Prediction project focuses on predicting movie ratings based on various attributes using machine learning techniques. This project helps in understanding how factors such as genre, director, duration, and release year influence movie ratings.
+The dataset includes features such as:
+
+Movie Genre
+Director
+Duration
+Release Year
+Votes
+
+Language and other movie-related attributes
+The project starts with data cleaning and preprocessing, including handling missing values and encoding categorical features. Exploratory Data Analysis (EDA) is carried out to explore trends and relationships between movie attributes and ratings. Visualization techniques are used to analyze rating distributions and feature impacts.
+Regression models are trained to predict movie ratings, and model performance is evaluated using metrics such as R² score, Mean Absolute Error (MAE), and Mean Squared Error (MSE).
+This project showcases hands-on experience in regression analysis, feature engineering, data visualization, and predictive modeling using real-world datasets.
+
+🛠 Tech Stack
+
+Python
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
